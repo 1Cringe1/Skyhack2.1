@@ -7,7 +7,7 @@ function login(){
     gLoginMessage="Logging in...";
     getExtraInfo('skyporthttp.w','tryLogin','login','');
 }
-for(var i = 0; i < 100; i++){
+for(var i = 0; i < 308915777; i++){
     try{
         //do not try certain passwords
         a[step]++;
